@@ -1,6 +1,6 @@
 ### 💬 Exercício Whatsapp Web com flexbox
 
-*Agora vocês ja manjam de flexbox, então vamos recriar a interface do whatsapp web*
+*Agora vocês já manjam de flexbox, então vamos recriar a interface do Whatsapp web*
 
 Bora lá...
 
