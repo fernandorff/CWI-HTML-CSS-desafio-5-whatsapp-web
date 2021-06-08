@@ -14,6 +14,10 @@ Bora lá...
 
 Você deve deixar o resultado o mais fiel possível ao layout.
 
+🚧 Não apague o conteúdo da pasta `prints`.
+
+🚧 Você deve salvar o arquivo html como index.html para que a pipeline de correção funcione corretamente.
+
 💡 Uma dica, se você está chutando as propriedades, eu recomendo fortemente pedir ajuda aos colegas e monitores.
 
 O fato de aprender usar o flexbox sem chutar as propriedades vai te ajudar a ganhar muita velocidade nos próximos exercícios.
